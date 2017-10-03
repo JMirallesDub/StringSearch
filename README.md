@@ -1,0 +1,2 @@
+# StringSearch
+Technical assestment
